@@ -1,0 +1,10 @@
+{
+  "name": "tita_media",
+  "version": "0.0.1",
+  "description": "prueba técnica",
+  "repository": "https://github.com/JohnAlexanderG/tita_media.git",
+  "author": "JohnAlexanderG <gddesignw@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {}
+}
